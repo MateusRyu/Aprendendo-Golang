@@ -1,4 +1,4 @@
-package main
+package exercises
 
 import "fmt"
 
@@ -10,6 +10,6 @@ const (
 	d
 )
 
-func main()  {
+func main() {
 	fmt.Println(a, b, c, d)
 }

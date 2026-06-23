@@ -1,8 +1,9 @@
-package main
+package exercises
 
 import "fmt"
 
 type age int
+
 var x age
 var y int
 

@@ -1,11 +1,11 @@
-package main
+package exercises
 
 import "fmt"
 
 func main() {
-	esporteFavoito := "xadrez"
+	esporteFavorito := "xadrez"
 
-	switch esporteFavoito {
+	switch esporteFavorito {
 	case "futebol":
 		fmt.Println("Quadra de futebol")
 	case "natação":
