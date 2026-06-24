@@ -6,4 +6,10 @@ Para estudo de Go para web: https://gowebexamples.com/
 
 ## Exercisios
 
-- [1-1](./exercises/1.md)
+- [1](./exercises/1.md)
+- [2](./exercises/2.md)
+- [3](./exercises/3.md)
+- [4](./exercises/4.md)
+- [5](./exercises/5.md)
+- [6](./exercises/6.md)
+- [7](./exercises/7.md)
